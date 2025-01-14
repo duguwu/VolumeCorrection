@@ -1,0 +1,7 @@
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/gslcblas.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/gsl.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/install.dir
+C:/dev/vcpkg/buildtrees/gsl/x64-windows-rel/CMakeFiles/install/local.dir
